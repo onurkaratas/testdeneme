@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><testrun name="Infonaltest" project="Test Project" tests="1" started="1" failures="0" errors="2" ignored="0">
-  <testsuite name="testpackage.Infonaltest" time="0.39">
-    <testcase name="testInfonal" classname="testpackage.Infonaltest" time="0.39">
+  <testsuite name="testpackage.Infonaltest" time="0.208">
+    <testcase name="testInfonal" classname="testpackage.Infonaltest" time="0.208">
       <error>java.lang.NoClassDefFoundError: com/google/gson/JsonElement&#13;
 	at org.openqa.selenium.firefox.Preferences.readDefaultPreferences(Preferences.java:95)&#13;
 	at org.openqa.selenium.firefox.Preferences.&lt;init&gt;(Preferences.java:65)&#13;
